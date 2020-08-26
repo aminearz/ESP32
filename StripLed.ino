@@ -2,7 +2,7 @@
 #include <EEPROM.h>
 
 // the number of the LED pin
-const int ledPin = 16;  // 16 corresponds to GPIO16
+const int ledPin = 23;  // 23 corresponds to GPIO23
 
 // setting PWM properties
 const int freq = 5000;
